@@ -18,13 +18,3 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
----
-
-## 📊 Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giovanninilzd&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/giovanninilzd)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giovanninilzd&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/giovanninilzd)
-
-</div>
